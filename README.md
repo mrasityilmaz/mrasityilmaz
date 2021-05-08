@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @mrasityilmaz
-- 👀 I’m interested in AI,Machine Learning,Deep Learning,Data Science
-- 🌱 I’m currently learning C#,Python,Flutter,React Native
-- 📫 How to reach me rasityilmaz@yaani.com
+- 👀 Masaüstü ,Mobil ve Web Uygulamaları geliştiriyorum.
+- 🌱 C#,Python,Flutter ile ilgileniyorum.
+- 📫 Bana buradan ulaşabilirsin > rasityilmaz@yaani.com
 
 <!---
 mrasityilmaz/mrasityilmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.        
 --->
+
+
+
