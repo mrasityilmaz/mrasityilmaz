@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrasityilmaz
+- 👋 Merhaba, Ben @mrasityilmaz
 - 👀 Masaüstü ,Mobil ve Web Uygulamaları geliştiriyorum.
 - 🌱 C#,Python,Flutter ile ilgileniyorum.
 - 📫 Bana buradan ulaşabilirsin > rasityilmaz@yaani.com
