@@ -1,8 +1,23 @@
 - 👋 Merhaba, Ben **Muhammed Raşit Yılmaz**
 - 👀 Masaüstü ,Mobil ve Web Uygulamaları geliştiriyorum.
 - 🌱 C#, Swift, Flutter ile ilgileniyorum.
-- 📫 Bana buradan ulaşabilirsin > rasityilmaz@yaani.com
-- You can find me on [![LinkedIn][1.2]][2].
+
+
+
+##
+  <div>   
+
+ <a href="mailto: yilmazrasitt@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height=45px target="_blank"></a>
+  
+  
+  <a href="mailto: rasityilmaz@yaani.com" target="_blank"><img src="https://www.yaanimail.com/assets/img/common/logo.svg" target="_blank"></a>
+  
+  
+<a href="https://www.linkedin.com/in/hamzaoban/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&lo-goColor=white"   target="_blank"></a>   
+</div>
+
+  
+##
 <!---
 mrasityilmaz/mrasityilmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.        
