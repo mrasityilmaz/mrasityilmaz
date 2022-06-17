@@ -13,7 +13,7 @@
   <a href="mailto: rasityilmaz@yaani.com" target="_blank"><img src="https://www.yaanimail.com/assets/img/common/logo.svg" target="_blank"></a>
   
   
-<a href="https://www.linkedin.com/in/hamzaoban/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&lo-goColor=white"   target="_blank"></a>   
+<a href="https://www.linkedin.com/in/mrasityilmaz-1998/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&lo-goColor=white"   target="_blank"></a>   
 </div>
 
   
