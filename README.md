@@ -1,6 +1,9 @@
-- 👋 Merhaba, Ben **Muhammed Raşit Yılmaz**
+- 👋 Merhaba, Ben **Muhammed Raşit Yılmaz**. 
 - 👀 Masaüstü ,Mobil ve Web Uygulamaları geliştiriyorum.
 - 🌱 C#, Swift, Flutter ile ilgileniyorum.
+  
+  
+  
 
 
 
@@ -33,6 +36,11 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<div>
+<a align=right href="https://github.com/mrasityilmaz">
 
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2]: https://www.linkedin.com/in/mrasityilmaz-1998/
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=mrasityilmaz.mrasityilmaz&style=for-the-badge">
+<a>
+</div>
+
+
